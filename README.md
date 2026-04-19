@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on a chat app.
 - 📫 How to reach me idk i dont wanna give out my email.
-- 😄 Pronouns: el/ella/usted
 - ⚡ Fun fact: i lived in 3 countries.
 
 <!---
